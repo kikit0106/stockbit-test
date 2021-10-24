@@ -1,0 +1,20 @@
+{
+  "name": "stockbit-test",
+  "version": "1.0.0",
+  "description": "<p> <h1>Stockbit Test</h1> <br> <p>Repository ini berisi kode hasil penyelesaian soal online yang diberitahukan melalui email. Terimakasih </p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "pikiringwh",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kikit0106/stockbit-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kikit0106/stockbit-test/issues"
+  },
+  "homepage": "https://github.com/kikit0106/stockbit-test#readme"
+}
